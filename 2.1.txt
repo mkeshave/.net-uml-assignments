@@ -1,0 +1,5 @@
+7. Refer 1.1. Which use case do you think this activity diagram is describing?
+Login
+
+8. Name the swimlanes that you find in this diagram.
+User,System

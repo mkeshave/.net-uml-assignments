@@ -1,0 +1,12 @@
+B. Study the sequence diagram given below and answer the following questions.
+1. The operation getAvailableReports() belongs to the class FinancialAnalyst.
+TRUE /FALSE
+TRUE
+2. What methods would be implemented by the class ReportingSystem ?
+getSecurityClearnce(userId),determineAvailableReports()
+
+3. What is the return value of the method getAvailableReports ?
+AvailableReport
+
+4. Who is responsible for calling the operation determineAvailableReports() ?
+ReportingSystem class

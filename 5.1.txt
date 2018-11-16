@@ -1,0 +1,21 @@
+1. Name all the classes that are part of this diagram.
+MainOptionForm,TransferFundsForm,TransferFundsController,ICurAcctBankSystem,
+Account,Customer,TransferDetails,SavingAccount,CurrentAccount
+
+2. Name the attributes defined for the “Customer” class.
+customerId:String,firstName:String,LastName:String
+
+3. Name the operation defined for the “TransferFundsController” class.
+calculateTransactionFee(),executeTransfer(),getCustomer()
+
+4. The following relationships are depicted amongst which classes?
+i. Generalization:SavingsAccount,CurrentAccount
+ii. Dependency:TransferDetails
+iii. Association22.:TransferFundsForm,TransferFundsController And Account,Customer
+
+5. Can a customer hold multiple accounts in the bank? Are joint accounts permitted
+as per this diagram?
+Yes. & No
+6. What needs to change in the above diagram if we wanted to depict the
+relationship that “Customer has Accounts”?
+Association must be swiped , it would be customer to Account

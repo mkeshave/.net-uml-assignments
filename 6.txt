@@ -1,0 +1,14 @@
+1. Name the extension mechanisms you find in the Use Case Diagram and
+Deployment Diagram.
+Stereotypes,constraints,Tagged value
+
+2. Name some stereotypes that you find on the Class Diagram.
+
+<<boundary>>,<<entity>>,<<control>>,<<interface>>
+
+3.. Name some adornments that you find on the Class Diagram.
+accountholder
+
+4. Do you find any Notes being depicted on any of the diagrams? If yes, in which
+diagrams?
+No

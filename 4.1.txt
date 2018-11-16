@@ -1,0 +1,13 @@
+1. What are the start and end states indicated on this diagram.
+Initial STate,End State
+
+2. Are there any states depicting “State-Sub state” relationships? Which are these
+states?
+Overdawn,Frozen
+3. Which states depicts entry action, exit action and internal activity? What are
+these actions/activities?
+Closed State,depicts entry action,exit action and internal activity.
+		These are State actions & self-transition
+
+4. Under what conditions does the Account go into Suspended state?
+When Balance<1000 and when there is fraud.
